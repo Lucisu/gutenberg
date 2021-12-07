@@ -4,7 +4,6 @@
 		"name": "core/comments-query-loop",
 		"isValid": true,
 		"attributes": {
-			"queryPerPage": 50,
 			"tagName": "div"
 		},
 		"innerBlocks": [],
